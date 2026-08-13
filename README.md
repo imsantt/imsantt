@@ -43,8 +43,7 @@ Engenheiro de Software Sênior com trajetória focada em **arquitetura de sistem
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imsantt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsantt&layout=compact&theme=dark"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsantt&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
