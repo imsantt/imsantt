@@ -1,18 +1,39 @@
 # Olá, eu sou o Robert Santos 👋
 
-### Estrategista em Engenharia de Software, IA & Arquitetura
-*Liderança Técnica | Desenvolvedor Fullstack Sr. na YDUQS | Elo entre Tecnologia, Negócios e Pessoas*
+### 🎯 Estrategista de Engenharia & IA | Arquitetura de Software | Liderança Negra | Aprendizagem Contínua | Elo entre Tecnologia, Negócios e Pessoas
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-Engenheiro de Software Sênior com trajetória focada em **arquitetura de sistemas escaláveis**, **soluções de alta complexidade transacional** e **desenvolvimento de times de alta performance**.
+Com uma trajetória sólida na engenharia de software e transformação digital, especializei-me em **arquitetar sistemas escaláveis** e **desenvolver times de alta performance**. Minha jornada foi pavimentada resolvendo desafios de alta complexidade transacional e portais de grande tráfego — desde e-commerce automotivo (**Unidas Seminovos**) e infraestrutura de transporte (**ABCR**), até o core de contas e pagamentos do Internet Banking Pessoa Jurídica (IBPJ) do **Banco ABC**.
 
-* 🎓 **Atuação Atual:** Engenheiro de Software Fullstack Sr. no time de Inovação da **YDUQS**, projetando e otimizando arquiteturas para a jornada de aprendizagem do maior grupo educacional do Brasil.
-* 🛠️ **Arquitetura & Clean Code:** Foco em Microsserviços com Clean/Hexagonal Architecture, TDD/BDD, APIs REST/Serverless e ambientes Cloud.
-* 👨‍🏫 **Mentoria & Educação:** Experiência como mentor corporativo e instrutor (SENAI/SC, Gama Academy), traduzindo requisitos de negócio complexos em diretrizes técnicas claras e impulsionando desenvolvedores.
-* ✊🏾 **Liderança Negra & Impacto Social:** Co-idealizador de iniciativas como **Potenc [IA]** (letramento em IA para pessoas negras, pardas e periféricas) e **Guardiões Digitais**.
+Hoje, atuo como **Engenheiro de Software no time de inovação da YDUQS**, projetando a arquitetura do maior grupo educacional do país. Meu foco está em impactar positivamente a plataforma de ensino para alunos e educadores, enquanto desenvolvo e impulsiono pessoas para alcançarem novos patamares em suas carreiras.
+
+---
+
+## 🧠 Engenharia, Educação e Autonomia
+
+Meu trabalho une engenharia sênior à paixão por educar. Acredito que a tecnologia deve emancipar pessoas. Minha bagagem como educador e mentor corporativo (**SENAI/SC** e **Gama Academy**) refinou minha didática, competência que utilizo para mentorar engenheiros, traduzir objetivos de negócio, reduzir ambiguidades e elevar a maturidade técnica das equipes.
+
+---
+
+## ✊🏾 Liderança Negra, Inclusão e Impacto Social
+
+Mais do que construir sistemas resilientes, assumi o compromisso de exercer uma **Liderança Negra e Inclusiva**. Formado pela **Escola de Liderança Mover**, crio ambientes de pertencimento e abro caminhos para a equidade racial na tecnologia através de projetos que idealizo e co-lidero:
+
+* 💡 **Potenc[IA]:** Projeto para democratizar o letramento em IA de forma acessível para pessoas negras, pardas e periféricas.
+* 🛡️ **Guardiões Digitais:** Co-idealizador da iniciativa voltada a capacitar e formar jovens aprendizes através do ensino de tecnologia.
+
+---
+
+## 🛠️ Destaques de Expertise Técnica
+
+* ⚡ **Sistemas Críticos:** Ecossistemas financeiros, e-commerce e grandes portais (*YDUQS, Banco ABC, Unidas, ABCR*).
+* 📐 **Arquitetura Fullstack:** Microsserviços em Clean Architecture e Hexagonal (*TypeScript, NestJS, Node.js, React*).
+* ☁️ **Cloud & DevOps:** Serverless na AWS e provisionamento automatizado via Terraform.
+* 🗄️ **Persistência Poliglota:** Modelagem relacional (*PostgreSQL, MySQL, SQL Server*) e NoSQL (*MongoDB, DynamoDB*).
+* 🧪 **Qualidade:** TDD/BDD alinhando código limpo e testes automatizados aos objetivos estratégicos.
 
 ---
 
@@ -48,7 +69,8 @@ Engenheiro de Software Sênior com trajetória focada em **arquitetura de sistem
 
 ---
 
-## 📬 Vamos nos conectar?
+✨ *Meu propósito é conectar tecnologia de ponta, impacto social e desenvolvimento de legados reais. Vamos construir o amanhã juntos?*
 
-* 💼 **LinkedIn:** [linkedin.com/in/imsantt](https://www.linkedin.com/in/imsantt)
+### 📬 Vamos nos conectar?
+* 💼 **LinkedIn:** [@imsantt](https://www.linkedin.com/in/imsantt)
 * ✉️ **E-mail:** robertsantosti@outlook.com
