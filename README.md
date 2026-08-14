@@ -22,7 +22,7 @@ Meu trabalho une engenharia sênior à paixão por educar. Acredito que a tecnol
 
 Mais do que construir sistemas resilientes, assumi o compromisso de exercer uma **Liderança Negra e Inclusiva**. Formado pela **Escola de Liderança Mover**, crio ambientes de pertencimento e abro caminhos para a equidade racial na tecnologia através de projetos que idealizo e co-lidero:
 
-* 💡 **Potenc[IA]:** Projeto para democratizar o letramento em IA de forma acessível para pessoas negras, pardas e periféricas.
+* 💡 **Pret[IA]:** Projeto para democratizar o letramento em IA de forma acessível para pessoas negras, pardas e periféricas.
 * 🛡️ **Guardiões Digitais:** Co-idealizador da iniciativa voltada a capacitar e formar jovens aprendizes através do ensino de tecnologia.
 
 ---
